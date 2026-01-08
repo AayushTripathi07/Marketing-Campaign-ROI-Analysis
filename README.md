@@ -16,19 +16,6 @@ This project is designed from a **beginner’s perspective** and is suitable for
 
 ---
 
-## 📂 Project Structure
-Marketing-Campaign-ROI-Analysis/
-│
-├── sql/
-│ ├──marketing_db.sql
-│
-├── tableau/
-│ └── Marketing_ROI_Dashboard.twbx
-│
-└── README.md
-
----
-
 ## 🧾 Dataset Overview
 The dataset contains basic marketing campaign information such as:
 - Campaign name
