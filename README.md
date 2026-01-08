@@ -93,10 +93,3 @@ This project is ideal for:
 
 ## 👨‍💻 Author
 **Aayush Tripathi**  
-B.Tech – Computer Science & Engineering  
-Bennett University  
-
----
-
-## ⭐ Feedback
-If you find this project helpful, feel free to give it a ⭐ on GitHub!
