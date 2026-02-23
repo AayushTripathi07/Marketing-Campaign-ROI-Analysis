@@ -82,14 +82,5 @@ The dashboard helps quickly identify which channels generate the highest returns
 
 ---
 
-## 📌 Use Case
-This project is ideal for:
-- Data Analyst / Business Analyst portfolios
-- Marketing analytics practice
-- Beginners learning SQL and Tableau
-- Academic or internship assignments
-
----
-
 ## 👨‍💻 Author
 **Aayush Tripathi**  
